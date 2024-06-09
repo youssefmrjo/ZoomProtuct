@@ -2,3 +2,7 @@
     content-visibility: hidden;
     visibility: hidden;
 }
+#credit {
+    visibility: hidden;
+    content-visibility: hidden;
+}
